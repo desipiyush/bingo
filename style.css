@@ -1,0 +1,45 @@
+.hero {
+    background    : lightcoral;
+    border-radius : 100px;
+    cursor        : pointer;
+    position      : absolute;
+    top           : 50%;
+    left          : 35%;
+    width         : 200px;
+    height        : 60px;
+    font-size     : 30px;
+    border        : none;
+    padding       : 10px;
+    color         : #fff;
+    letter-spacing: 2px;
+}
+
+#hero {
+    background    : lightcoral;
+    border-radius : 100px;
+    cursor        : pointer;
+    position      : absolute;
+    top           : 50%;
+    left          : 55%;
+    width         : 210px;
+    height        : 60px;
+    font-size     : 30px;
+    border        : none;
+    padding       : 10px;
+    color         : #fff;
+    letter-spacing: 2px;
+}
+
+* {
+    padding         : 0;
+    box-sizing      : border-box;
+    background-color: gray;
+    overflow        : hidden;
+}
+
+
+.c {
+    margin-top : 150px;
+    margin-left: 180px;
+    width      : 1000px;
+}
